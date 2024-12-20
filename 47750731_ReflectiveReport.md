@@ -1,7 +1,7 @@
-# Reflective Report on Portfolio 4
+# Reflective Report 
 
 ### This is the Reflective report which covers process of solving problems using data. How I approach to the problem Solving by solving it in the Jupyter Notebook?
-### I will discuss over the progress of my unit on how I approached it and how I will use the learnings in the future. Then, I will discuss over the two points of discussion related to portfolio 4. 
+### I will discuss over the progress of my unit on how I approached it and how I will use the learnings in the future. Then, I will discuss over the two points of discussion related to  . 
 
 # Problem Solving and Learning to Use Jupyter Notebooks 
 
@@ -20,21 +20,21 @@
 ### Applying the data science based problem solving I would like to participate in Kaggle Data science Competition. I would like to enhance my profile over the Kaggle. I would like to be in top 10 submissions to any Kaggle Competition and keep my name and the Macquarie University name to the top. 
 ### Applying these skills on a practical ground is very crucial I would love to join start up company in which I can apply the learnt skills and apply with real datasets on any cloud environment.
 
-# Why you choose the dataset you have used for your portfolio 4 ?
+# Why you choose the dataset you have used for your   ?
 
-### In the portfolio 4, the choice of data set plays an important role as the covid data has a great dependency on the lives. Seeing which country performs better can help the government decide over the policies and share the information around the world. 
+### In the  , the choice of data set plays an important role as the covid data has a great dependency on the lives. Seeing which country performs better can help the government decide over the policies and share the information around the world. 
 ### Dataset provides proper demographics related to the problem. Date wise analysis and the visualisation from the data were clean . 
 ### Data had 223 countries and the date from 2019 to 2022 which is quite  appropriate to the times. The size of the dataset is quite appropriate which shows there's enough information related to the Covid 19 predictions. The dataset has more than 98252 rows and 8 features of the same.
 ### I consider the COVID-19 epidemic to be one of the most significant occurrences of our time, and I am passionate about utilizing data analytics to aid in understanding and mitigating this problem. I am certain that the knowledge and expertise I obtained from working with this dataset would be useful in my next profession as a data scientist.
 
-# The reason to choose your machine models in portfolio 4 and why these models are suitable for solving the problem you have raised ?
+# The reason to choose your machine models in   and why these models are suitable for solving the problem you have raised ?
 
-### In the Portfolio 4, I have used  K means algorithm. It helped me in diversification of clusters of countries which performed well during covid times. It’s a simple algorithm to read and applying through scikit makes it easy on Jupyter notebook. 
+### In the  , I have used  K means algorithm. It helped me in diversification of clusters of countries which performed well during covid times. It’s a simple algorithm to read and applying through scikit makes it easy on Jupyter notebook. 
 ### The Elbow method helps in optimizing the model by judging the right K which in turns result the most appropriate number of cluster. The Dendo-diagram also helps in clarity. K means Roustness and clear visualisation has helped in selecting the countries that are performing well and countries which need to work over it's policies. ### It helps in the convergence of all the features.  
 ### In prediction of confirmed cases Initially i started with linear regression as the trend was not linear i applied Polynominal regression to improve the accuracy of the model
 
 
 
-# Conclusion to Portfolio 4
+# Conclusion to  
 
 ### It appears that the growth of confirmed and death cases has slowed. which is a great sign. Hope that continues for a short while. Just as the USA occurred to be that epicenter for a brief while, no other nation should emerge as the new epicenter of COVID-19. The number of confirmed cases will increase dramatically if a new country becomes the epicenter.
